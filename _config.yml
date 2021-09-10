@@ -109,7 +109,7 @@ deploy:
 # RESUME
 resume:
   name: Nicholas Decheine
-  jobtitle: Software Developer, HEP Researcher
+  jobtitle: Software Developer, High Energy Physics Researcher
   contact:
     - icon: fa-envelope
       text: decheine@hep.wisc.edu
@@ -117,8 +117,8 @@ resume:
       text: your-website.com
       link: https://crispgm.github.io/resume/resume.html
     - icon: fa-github
-      text: your-github
-      link: https://github.com/crispgm/resume
+      text: @decheine
+      link: https://github.com/decheine
   education:
     - university: Your First University
       duration: Jul 2011 - Dec 2012
