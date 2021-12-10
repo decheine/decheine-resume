@@ -14,7 +14,7 @@ timezone: ""
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://decheine.github.io/decheine-site
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -134,12 +134,11 @@ resume:
     - title: Skill Group 3
       items: Sed do, Eiusmod, Tempor, Incididunt
   research:
-    - title: Job Title 1
+    - title: MiniCLEAN Dark Matter Experiment
       duration: Apr 2016 - Now
-      company: Your 1st, Inc.
+      company: UW-Madison Physics Department
       description:
-        - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        - Link to the PDF of the symposium poster presenting my research. pdf post [poster](/)
     - title: Job Title 2
       duration: Apr 2013 - Mar 2016
       company: Your 2nd, Inc.
