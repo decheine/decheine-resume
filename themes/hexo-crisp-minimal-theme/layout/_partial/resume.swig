@@ -62,12 +62,12 @@
     </div>
   </section>
 
-  <section id="experience">
+  <section id="research">
     <div class="section-title">
-      Experience
+      Research
     </div>
     <div class="section-content">
-      {% for exp in config.resume.experience %}
+      {% for exp in config.resume.research %}
       <div class="block">
         <div class="block-title">
           {{ exp.title }}
