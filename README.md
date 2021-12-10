@@ -2,7 +2,7 @@
 
 Designed to showcase my work in a one-pager.
 
-URL: https://decheine.github.io/decheine-site
+URL: https://decheine.github.io/decheine-resume
 
 This website is built using [Hexo](https://hexo.io/docs/) and hosted via GitHub Pages.
 
