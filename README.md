@@ -6,6 +6,8 @@ URL: https://decheine.github.io/decheine-site
 
 This website is built using [Hexo](https://hexo.io/docs/) and hosted via GitHub Pages.
 
+I'll eventually fill this out. I wanted to add a simple link to a pdf file but Hexo's documentation is absolutely terrible and I would waste more time than it's worth to me figuring it out.
+
 ## Developing
 
 Clone the repository.
